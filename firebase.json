@@ -1,5 +1,7 @@
 {
-  "hosting": {
+  "hosting": 
+  {
+    "target": "mytuesdayrecipes",
     "public": "public",
     "ignore": [
       "firebase.json",
