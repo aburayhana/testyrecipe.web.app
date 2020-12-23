@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "mytuesdayrecipes"
+  },
+  "targets": {
+    "mytuesdayrecipes": {
+      "hosting": {
+        "testyrecipe": [
+          "testyrecipe"
+        ]
+      }
+    }
   }
 }

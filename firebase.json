@@ -1,6 +1,7 @@
 {
-  "hosting": {
-    "site": "testyrecipe",
+  "hosting": 
+  {
+    "target": "testyrecipe",
     "public": "public",
     "ignore": [
       "firebase.json",
