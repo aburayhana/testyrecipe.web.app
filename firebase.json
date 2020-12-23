@@ -1,7 +1,6 @@
 {
-  "hosting": 
-  {
-    "target": "mytuesdayrecipes",
+  "hosting": {
+    "site": "testyrecipe",
     "public": "public",
     "ignore": [
       "firebase.json",
